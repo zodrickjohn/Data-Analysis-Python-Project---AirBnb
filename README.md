@@ -1,4 +1,4 @@
-![AirBnb](Airbnb logo.png)
+![AirBnb](Airbnb_logo.png)
 
 # 🏡 Airbnb Data Analysis in Python
 

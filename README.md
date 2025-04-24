@@ -46,3 +46,6 @@ This project is a complete **exploratory data analysis (EDA)** of Airbnb listing
 - Many hosts have multiple listings — indicating professional hosting
 
 ---
+
+[Click to view Project Video / Linkdin Post]([https://www.linkedin.com/posts/zodrick-john-1689a8256_datascience-python-eda-activity-7320819081295581184-KcUG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8mrOABsUmTOAKWlhdQdbjigs27IxTaqzA](https://www.linkedin.com/posts/zodrick-john-1689a8256_datascience-eda-airbnb-activity-7321126600052273152-FQDl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD8mrOABsUmTOAKWlhdQdbjigs27IxTaqzA))
+
